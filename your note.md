@@ -5,3 +5,4 @@ totalNote
   1-3：general  一般
   1-4：section  部分
 2、单词：Avatar  头像   Nick 昵称   Disabled  禁用  Field 领域
+3、[Springboot] OAuto 开放系统间授权，不是一种协议，只是一种解决方案 
