@@ -4,3 +4,4 @@ totalNote
   1-2：getting started with  从...开始  
   1-3：general  一般
   1-4：section  部分
+2、单词：Avatar  头像   Nick 昵称   Disabled  禁用
